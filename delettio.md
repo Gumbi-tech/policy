@@ -1,0 +1,6 @@
+#How to Request Data Deletion:
+To request the deletion of your personal information, you can do so by:
+
+#Sending an email to [support@example.com] with the subject line "Data Deletion Request."
+Using the in-app "Delete Account" option, if available.
+Contacting our support team through [insert support form link].
